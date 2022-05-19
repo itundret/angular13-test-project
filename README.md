@@ -3,11 +3,7 @@
 <table>
 <tr>
 <td>
-  <a href="https://www.ganatan.com/en">
-    <img src="./img/ganatan-about-github.png" align="right"
-    alt="Ganatan Angular Example Demo" width="140" height="140">
-  </a>
-
+ 
 it's a repo designed to create a **Web Application with Angular 13**
 
 
@@ -24,16 +20,14 @@ it's a repo designed to create a **Web Application with Angular 13**
 </tr>
 </table>
 
-# [Live Demo](#live-demo)
-Here is a working live demo :  https://angular.ganatan.com/
+
 
 
 <p align="center">
   <p align="center">
-    <a href="https://angular.ganatan.com/">
       <img src="https://media.giphy.com/media/9BuBBLc7keCgRojp92/giphy.gif" alt="Angular 13 Example 
       Application"/>
-    </a>
+   
   </p>
 </p>
 
@@ -44,9 +38,8 @@ Here is a working live demo :  https://angular.ganatan.com/
 
 <p align="center">
   <p align="center">
-    <a href="https://angular.ganatan.com">
-      <img src="./img/search-engine-optimization-avec-angular-lighthouse-after.png" alt="Ganatan Lighthouse SEO Angular Example Demo"/>
-    </a>
+      <img src="./img/search-engine-optimization-avec-angular-lighthouse-after.png" alt="SEO Angular Example Demo"/>
+    
   </p>
 </p>
 
@@ -81,16 +74,7 @@ Here is a working live demo :  https://angular.ganatan.com/
 - [x] Template Driven Forms
 - [x] Search / Grid / Pagination
 
-## Quick start
 
-```bash
-# select a repo from github or gitlab
-
-# download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-app.git
-
-# download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-app.git
 
 # change directory
 cd angular-app
@@ -266,12 +250,3 @@ pm2 start process.config.js --env prod
 * in your browser [http://localhost:5004/countries](http://localhost:5004/countries) 
 * in your browser [http://localhost:5004/cities](http://localhost:5004/cities) 
 
-### Author
-* Author  : danny
-
-## Documentation
-English Tutorials
-- Step by Step - https://www.ganatan.com/tutorials/en
-
-Tutoriels en français
-- Etapes par étapes - https://www.ganatan.com/tutorials
